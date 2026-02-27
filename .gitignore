@@ -1,0 +1,9 @@
+# Ignore the Python virtual environment
+.venv/
+__pycache__/
+
+# Ignore all data files (CSVs)
+data/
+
+# Ignore Airflow logs if they exist here
+logs/
